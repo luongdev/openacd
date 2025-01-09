@@ -1,0 +1,6 @@
+database:
+  host: "192.168.13.54"
+  port: 27017
+  username: "root"
+  password: "Abcd54321"
+  database: "openacd"
